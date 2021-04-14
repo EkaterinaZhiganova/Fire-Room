@@ -8,3 +8,4 @@ There are columns in the room, from which flames burst out. The particle effect 
 The room contains objects with animation: a cage and a chest. The animation was created by me. 
 The lava flowing under the bridge and across the floor is also scripted by me. If a player is caught in a lava or fire trap, he starts the game from the start position.
 Some objects in the room have a sound: torches, a chest and a cage. To control the sounds, I created few sound areas.
+Link to the full version of the project https://drive.google.com/file/d/1kVgaapTJOleyBokMMaZDoSG2749-69e6/view?usp=sharing
